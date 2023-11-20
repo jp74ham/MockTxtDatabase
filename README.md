@@ -1,3 +1,3 @@
 # MockTxtDatabase
 
-# .qmake.stash not included
+## .qmake.stash not included
