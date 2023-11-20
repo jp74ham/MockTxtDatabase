@@ -1,3 +1,4 @@
 # MockTxtDatabase
 
-## .qmake.stash not included
+- C++, QtCreator/QWidgets, Qt5
+.qmake.stash not included
